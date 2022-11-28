@@ -10,7 +10,6 @@ The following functions are included in this app to fulfill requirements for Ass
 
 Function Type | Description & Rationale
 ----------|---------
-
 Functional widgit | selecting variables to include on x-axis of graph. This is useful because it allows the user to visualize relationships between different variables and petal width
 Change in UI | Added the paper theme, making text and colours of the UI aesthetically pleasing (and complementary to content of the app - purple iris flowers)
 Functional widgit | checkbox to include outliers. This allows the user to choose whether or not data outliers are displayed on the graphs.
