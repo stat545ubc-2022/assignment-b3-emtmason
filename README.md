@@ -4,7 +4,7 @@ This repository is intended to meet the requirements for STAT545B Assignment 4, 
 
 Option Selected: C (Make updates to the Shiny App completed for Assignment B3)
 
-Link to running app: 
+Link to running app: https://emtmasonjar.shinyapps.io/steam/
 
 ## App Description
 This app functions to visualize data on flower dimensions of different iris flowers taken from a popularly used dataset called "iris" from the R datasets package. it will allow the user to look at petal length in relation to several other variables including sepal length, petal width, and species of iris in a boxplot and scatter plot format.
